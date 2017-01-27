@@ -8,7 +8,7 @@
 //var greet = 'Hello, '+ userName;
 //document.write('greet');
 
-var a=1;
+var a=0;
 var b=-26;
 var c=120;
 
@@ -17,6 +17,7 @@ var d, x1, x2, result;
 d=b*b-4*a*c;
 
 if (a==0) {
+    
  result='a can not equal 0';  
 }
 else {
