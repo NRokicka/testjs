@@ -1,6 +1,16 @@
-var a=60;
-var b=5;
-var c=-60;
+//document.write('Hello World');
+
+//var hello = 'Hello World';
+//alert(hello);
+//console.log(hello);
+
+//var userName = prompt('Enter your name');
+//var greet = 'Hello, '+ userName;
+//document.write('greet');
+
+var a=1;
+var b=-26;
+var c=120;
 
 function equationDescr(a,b,c) {
 var d, x1, x2, result;
